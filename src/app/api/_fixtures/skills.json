@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "name": "React",
+    "icon": "⚛️",
+    "category": "frontend",
+    "description": "Declarative UI library for building component-based interfaces."
+  },
+  {
+    "id": 2,
+    "name": "TypeScript",
+    "icon": "🟦",
+    "category": "frontend",
+    "description": "Typed superset of JavaScript that scales to large codebases."
+  },
+  {
+    "id": 3,
+    "name": "Next.js",
+    "icon": "▲",
+    "category": "frontend",
+    "description": "React framework with routing, rendering strategies and API routes."
+  },
+  {
+    "id": 4,
+    "name": "CSS & Tailwind",
+    "icon": "🎀",
+    "category": "frontend",
+    "description": "Styling web interfaces with modern CSS and utility-first frameworks."
+  },
+  {
+    "id": 5,
+    "name": "Python",
+    "icon": "🐍",
+    "category": "backend",
+    "description": "General-purpose language widely used for services, scripting and data."
+  },
+  {
+    "id": 6,
+    "name": "Flask",
+    "icon": "🧪",
+    "category": "backend",
+    "description": "Lightweight Python web framework for building APIs."
+  },
+  {
+    "id": 7,
+    "name": "PostgreSQL",
+    "icon": "🐘",
+    "category": "backend",
+    "description": "Robust open-source relational database."
+  },
+  {
+    "id": 8,
+    "name": "SQL",
+    "icon": "🗃️",
+    "category": "data",
+    "description": "Querying and modeling relational data."
+  },
+  {
+    "id": 9,
+    "name": "dbt",
+    "icon": "🧱",
+    "category": "data",
+    "description": "Transforming data in the warehouse with versioned SQL models."
+  },
+  {
+    "id": 10,
+    "name": "Data visualization",
+    "icon": "📊",
+    "category": "data",
+    "description": "Turning datasets into clear, actionable charts and dashboards."
+  },
+  {
+    "id": 11,
+    "name": "Figma",
+    "icon": "🎨",
+    "category": "design",
+    "description": "Collaborative interface design and prototyping tool."
+  },
+  {
+    "id": 12,
+    "name": "Design system",
+    "icon": "🧩",
+    "category": "design",
+    "description": "Building and maintaining reusable components and design tokens."
+  },
+  {
+    "id": 13,
+    "name": "AWS",
+    "icon": "☁️",
+    "category": "cloud",
+    "description": "Designing and operating workloads on Amazon Web Services."
+  },
+  {
+    "id": 14,
+    "name": "Docker",
+    "icon": "🐳",
+    "category": "cloud",
+    "description": "Packaging applications into portable containers."
+  },
+  {
+    "id": 15,
+    "name": "Kubernetes",
+    "icon": "☸️",
+    "category": "cloud",
+    "description": "Orchestrating containerized workloads at scale."
+  },
+  {
+    "id": 16,
+    "name": "Terraform",
+    "icon": "🏗️",
+    "category": "cloud",
+    "description": "Provisioning infrastructure as code across providers."
+  },
+  {
+    "id": 17,
+    "name": "Facilitation",
+    "icon": "🗣️",
+    "category": "soft-skills",
+    "description": "Running workshops and meetings that reach decisions."
+  },
+  {
+    "id": 18,
+    "name": "Project management",
+    "icon": "📋",
+    "category": null,
+    "description": "Planning, tracking and delivering projects on time and on budget."
+  },
+  {
+    "id": 19,
+    "name": "Agile",
+    "icon": "🔄",
+    "category": "soft-skills",
+    "description": "Iterative delivery with Scrum and Kanban practices."
+  },
+  {
+    "id": 20,
+    "name": "Negotiation",
+    "icon": "🤝",
+    "category": "soft-skills",
+    "description": "Reaching agreements that work for clients and teams."
+  },
+  {
+    "id": 21,
+    "name": "English",
+    "icon": "🇬🇧",
+    "category": "soft-skills",
+    "description": "Professional written and spoken English in international contexts."
+  }
+]

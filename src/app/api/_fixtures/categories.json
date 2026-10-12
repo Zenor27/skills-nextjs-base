@@ -1,0 +1,8 @@
+[
+  { "slug": "frontend", "label": "Frontend" },
+  { "slug": "backend", "label": "Backend" },
+  { "slug": "data", "label": "Data" },
+  { "slug": "design", "label": "Design" },
+  { "slug": "cloud", "label": "Cloud" },
+  { "slug": "soft-skills", "label": "Soft skills" }
+]
